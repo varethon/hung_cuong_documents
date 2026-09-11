@@ -1,0 +1,410 @@
+book_id: toan6
+coverage_policy: all_source_lessons_and_skills
+records:
+- lesson_id: "C1-L1"
+  chapter_id: "C01"
+  volume: 1
+  title: "Tập hợp và phần tử"
+  objective: "Nhận biết, vận dụng và giải thích tập hợp và phần tử"
+  concepts: [sets]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: "sets"
+  coverage_status: planned
+- lesson_id: "C1-L2"
+  chapter_id: "C01"
+  volume: 1
+  title: "Cách ghi số tự nhiên"
+  objective: "Nhận biết, vận dụng và giải thích cách ghi số tự nhiên"
+  concepts: [place]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: none
+  coverage_status: planned
+- lesson_id: "C1-L3"
+  chapter_id: "C01"
+  volume: 1
+  title: "Thứ tự trong tập hợp số tự nhiên"
+  objective: "Nhận biết, vận dụng và giải thích thứ tự trong tập hợp số tự nhiên"
+  concepts: [order]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: "number-line"
+  coverage_status: planned
+- lesson_id: "C1-L4"
+  chapter_id: "C01"
+  volume: 1
+  title: "Phép cộng, phép trừ, phép nhân và phép chia"
+  objective: "Nhận biết, vận dụng và giải thích phép cộng, phép trừ, phép nhân và phép chia"
+  concepts: [arithmetic]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: none
+  coverage_status: planned
+- lesson_id: "C1-L5"
+  chapter_id: "C01"
+  volume: 1
+  title: "Lũy thừa và thứ tự thực hiện phép tính"
+  objective: "Nhận biết, vận dụng và giải thích lũy thừa và thứ tự thực hiện phép tính"
+  concepts: [powers]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: none
+  coverage_status: planned
+- lesson_id: "C2-L1"
+  chapter_id: "C11"
+  volume: 1
+  title: "Quan hệ chia hết và dấu hiệu chia hết"
+  objective: "Nhận biết, vận dụng và giải thích quan hệ chia hết và dấu hiệu chia hết"
+  concepts: [divisibility]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: none
+  coverage_status: planned
+- lesson_id: "C2-L2"
+  chapter_id: "C11"
+  volume: 1
+  title: "Số nguyên tố và phân tích ra thừa số nguyên tố"
+  objective: "Nhận biết, vận dụng và giải thích số nguyên tố và phân tích ra thừa số nguyên tố"
+  concepts: [prime]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: none
+  coverage_status: planned
+- lesson_id: "C2-L3"
+  chapter_id: "C11"
+  volume: 1
+  title: "Ước chung và ước chung lớn nhất"
+  objective: "Nhận biết, vận dụng và giải thích ước chung và ước chung lớn nhất"
+  concepts: [gcd]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: none
+  coverage_status: planned
+- lesson_id: "C2-L4"
+  chapter_id: "C11"
+  volume: 1
+  title: "Bội chung và bội chung nhỏ nhất"
+  objective: "Nhận biết, vận dụng và giải thích bội chung và bội chung nhỏ nhất"
+  concepts: [lcm]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: none
+  coverage_status: planned
+- lesson_id: "C3-L1"
+  chapter_id: "C21"
+  volume: 1
+  title: "Tập hợp số nguyên và trục số"
+  objective: "Nhận biết, vận dụng và giải thích tập hợp số nguyên và trục số"
+  concepts: [integers]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: "number-line"
+  coverage_status: planned
+- lesson_id: "C3-L2"
+  chapter_id: "C21"
+  volume: 1
+  title: "Phép cộng, phép trừ và phép nhân số nguyên"
+  objective: "Nhận biết, vận dụng và giải thích phép cộng, phép trừ và phép nhân số nguyên"
+  concepts: [integer_ops]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: none
+  coverage_status: planned
+- lesson_id: "C3-L3"
+  chapter_id: "C21"
+  volume: 1
+  title: "Quy tắc dấu ngoặc"
+  objective: "Nhận biết, vận dụng và giải thích quy tắc dấu ngoặc"
+  concepts: [parentheses]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: none
+  coverage_status: planned
+- lesson_id: "C3-L4"
+  chapter_id: "C21"
+  volume: 1
+  title: "Bài toán thực tế với số nguyên"
+  objective: "Nhận biết, vận dụng và giải thích bài toán thực tế với số nguyên"
+  concepts: [integers]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: none
+  coverage_status: planned
+- lesson_id: "C4-L1"
+  chapter_id: "C31"
+  volume: 1
+  title: "Tam giác đều, hình vuông và lục giác đều"
+  objective: "Nhận biết, vận dụng và giải thích tam giác đều, hình vuông và lục giác đều"
+  concepts: [geometry_shapes]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: "regular-shapes"
+  coverage_status: planned
+- lesson_id: "C4-L2"
+  chapter_id: "C31"
+  volume: 1
+  title: "Hình chữ nhật, hình thoi và hình bình hành"
+  objective: "Nhận biết, vận dụng và giải thích hình chữ nhật, hình thoi và hình bình hành"
+  concepts: [geometry_quads]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: none
+  coverage_status: planned
+- lesson_id: "C4-L3"
+  chapter_id: "C31"
+  volume: 1
+  title: "Chu vi, diện tích trong thực tiễn"
+  objective: "Nhận biết, vận dụng và giải thích chu vi, diện tích trong thực tiễn"
+  concepts: [geometry_quads]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: none
+  coverage_status: planned
+- lesson_id: "C5-L1"
+  chapter_id: "C41"
+  volume: 1
+  title: "Hình có trục đối xứng"
+  objective: "Nhận biết, vận dụng và giải thích hình có trục đối xứng"
+  concepts: [symmetry]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: "symmetry"
+  coverage_status: planned
+- lesson_id: "C5-L2"
+  chapter_id: "C41"
+  volume: 1
+  title: "Hình có tâm đối xứng"
+  objective: "Nhận biết, vận dụng và giải thích hình có tâm đối xứng"
+  concepts: [symmetry]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: "symmetry"
+  coverage_status: planned
+- lesson_id: "C6-L1"
+  chapter_id: "C51"
+  volume: 2
+  title: "Mở rộng phân số và phân số bằng nhau"
+  objective: "Nhận biết, vận dụng và giải thích mở rộng phân số và phân số bằng nhau"
+  concepts: [fraction_basic]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: none
+  coverage_status: planned
+- lesson_id: "C6-L2"
+  chapter_id: "C51"
+  volume: 2
+  title: "So sánh và cộng, trừ phân số"
+  objective: "Nhận biết, vận dụng và giải thích so sánh và cộng, trừ phân số"
+  concepts: [fraction_ops]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: none
+  coverage_status: planned
+- lesson_id: "C6-L3"
+  chapter_id: "C51"
+  volume: 2
+  title: "Phép nhân và phép chia phân số"
+  objective: "Nhận biết, vận dụng và giải thích phép nhân và phép chia phân số"
+  concepts: [fraction_ops]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: none
+  coverage_status: planned
+- lesson_id: "C6-L4"
+  chapter_id: "C51"
+  volume: 2
+  title: "Giá trị phân số của một số và tìm một số"
+  objective: "Nhận biết, vận dụng và giải thích giá trị phân số của một số và tìm một số"
+  concepts: [fraction_of]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: none
+  coverage_status: planned
+- lesson_id: "C7-L1"
+  chapter_id: "C61"
+  volume: 2
+  title: "Số thập phân và số đối"
+  objective: "Nhận biết, vận dụng và giải thích số thập phân và số đối"
+  concepts: [decimals]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: none
+  coverage_status: planned
+- lesson_id: "C7-L2"
+  chapter_id: "C61"
+  volume: 2
+  title: "Tính toán với số thập phân"
+  objective: "Nhận biết, vận dụng và giải thích tính toán với số thập phân"
+  concepts: [decimal_ops]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: none
+  coverage_status: planned
+- lesson_id: "C7-L3"
+  chapter_id: "C61"
+  volume: 2
+  title: "Làm tròn và ước lượng"
+  objective: "Nhận biết, vận dụng và giải thích làm tròn và ước lượng"
+  concepts: [rounding]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: none
+  coverage_status: planned
+- lesson_id: "C7-L4"
+  chapter_id: "C61"
+  volume: 2
+  title: "Tỉ số và tỉ số phần trăm"
+  objective: "Nhận biết, vận dụng và giải thích tỉ số và tỉ số phần trăm"
+  concepts: [percent]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: none
+  coverage_status: planned
+- lesson_id: "C8-L1"
+  chapter_id: "C71"
+  volume: 2
+  title: "Điểm và đường thẳng"
+  objective: "Nhận biết, vận dụng và giải thích điểm và đường thẳng"
+  concepts: [points]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: "number-line"
+  coverage_status: planned
+- lesson_id: "C8-L2"
+  chapter_id: "C71"
+  volume: 2
+  title: "Điểm nằm giữa hai điểm và tia"
+  objective: "Nhận biết, vận dụng và giải thích điểm nằm giữa hai điểm và tia"
+  concepts: [points]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: none
+  coverage_status: planned
+- lesson_id: "C8-L3"
+  chapter_id: "C71"
+  volume: 2
+  title: "Đoạn thẳng và độ dài đoạn thẳng"
+  objective: "Nhận biết, vận dụng và giải thích đoạn thẳng và độ dài đoạn thẳng"
+  concepts: [segments]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: "segment"
+  coverage_status: planned
+- lesson_id: "C8-L4"
+  chapter_id: "C71"
+  volume: 2
+  title: "Trung điểm của đoạn thẳng"
+  objective: "Nhận biết, vận dụng và giải thích trung điểm của đoạn thẳng"
+  concepts: [midpoint]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: "segment"
+  coverage_status: planned
+- lesson_id: "C8-L5"
+  chapter_id: "C71"
+  volume: 2
+  title: "Góc và số đo góc"
+  objective: "Nhận biết, vận dụng và giải thích góc và số đo góc"
+  concepts: [angles]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: "angle"
+  coverage_status: planned
+- lesson_id: "C9-L1"
+  chapter_id: "C81"
+  volume: 2
+  title: "Dữ liệu và thu thập dữ liệu"
+  objective: "Nhận biết, vận dụng và giải thích dữ liệu và thu thập dữ liệu"
+  concepts: [data]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: none
+  coverage_status: planned
+- lesson_id: "C9-L2"
+  chapter_id: "C81"
+  volume: 2
+  title: "Bảng thống kê và biểu đồ tranh"
+  objective: "Nhận biết, vận dụng và giải thích bảng thống kê và biểu đồ tranh"
+  concepts: [charts]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: "bar-chart"
+  coverage_status: planned
+- lesson_id: "C9-L3"
+  chapter_id: "C81"
+  volume: 2
+  title: "Biểu đồ cột"
+  objective: "Nhận biết, vận dụng và giải thích biểu đồ cột"
+  concepts: [charts]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: "bar-chart"
+  coverage_status: planned
+- lesson_id: "C9-L4"
+  chapter_id: "C81"
+  volume: 2
+  title: "Biểu đồ cột kép"
+  objective: "Nhận biết, vận dụng và giải thích biểu đồ cột kép"
+  concepts: [charts]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: "bar-chart"
+  coverage_status: planned
+- lesson_id: "C9-L5"
+  chapter_id: "C81"
+  volume: 2
+  title: "Kết quả có thể và sự kiện"
+  objective: "Nhận biết, vận dụng và giải thích kết quả có thể và sự kiện"
+  concepts: [probability]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: "outcomes"
+  coverage_status: planned
+- lesson_id: "C9-L6"
+  chapter_id: "C81"
+  volume: 2
+  title: "Xác suất thực nghiệm"
+  objective: "Nhận biết, vận dụng và giải thích xác suất thực nghiệm"
+  concepts: [probability]
+  skills: [nhan_biet, tinh_toan, van_dung]
+  difficulty_range: [co_ban, van_dung]
+  exercise_blueprint: {multiple_choice: 2, written: 2, worked_example: 1}
+  figure_requirements: "outcomes"
+  coverage_status: planned

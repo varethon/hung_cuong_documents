@@ -1,0 +1,13 @@
+book_id: toan6
+title: "Toán 6 – Các chuyên đề cơ bản"
+version: "run-20260911114930"
+language: vi-VN
+scope: {volumes: 2, chapters: 9, editions: [student, teacher]}
+input_inventory: {source_docx_count: 12, source_policy: read_only}
+output_files: pending_after_qa
+sha256: pending_after_qa
+qa_status: automated_draft_checks_pending_human_review
+human_approver: pending
+approval_timestamp: pending
+publication_status: draft_pending_human_approval
+known_deviations: [managed_documents_runtime_unavailable, bia_toan7_ref_01_missing]

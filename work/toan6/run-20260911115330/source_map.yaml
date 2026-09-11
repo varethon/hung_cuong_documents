@@ -1,0 +1,111 @@
+book_id: toan6
+source_policy: read_only_coverage_reference
+records:
+- source_file: "sources/root_documents/Toán 6/chuyen-de-co-ban-mon-toan-6-ket-noi-tri-thuc-voi-cuoc-song-tap-1/CHƯƠNG 1 ( 36 trang).docx"
+  grade: 6
+  volume: 1
+  chapter: "I"
+  content_types: [chapter_reference]
+  concepts: coverage_only
+  skills: coverage_only
+  answer_pair: generated_from_new_content
+  reference_role: coverage
+- source_file: "sources/root_documents/Toán 6/chuyen-de-co-ban-mon-toan-6-ket-noi-tri-thuc-voi-cuoc-song-tap-1/CHƯƠNG 2 ( 56 trang).docx"
+  grade: 6
+  volume: 1
+  chapter: "II"
+  content_types: [chapter_reference]
+  concepts: coverage_only
+  skills: coverage_only
+  answer_pair: generated_from_new_content
+  reference_role: coverage
+- source_file: "sources/root_documents/Toán 6/chuyen-de-co-ban-mon-toan-6-ket-noi-tri-thuc-voi-cuoc-song-tap-1/CHƯƠNG 3 ( 39 trang).docx"
+  grade: 6
+  volume: 1
+  chapter: "III"
+  content_types: [chapter_reference]
+  concepts: coverage_only
+  skills: coverage_only
+  answer_pair: generated_from_new_content
+  reference_role: coverage
+- source_file: "sources/root_documents/Toán 6/chuyen-de-co-ban-mon-toan-6-ket-noi-tri-thuc-voi-cuoc-song-tap-1/CHƯƠNG 4 ( 21 trang).docx"
+  grade: 6
+  volume: 1
+  chapter: "IV"
+  content_types: [chapter_reference]
+  concepts: coverage_only
+  skills: coverage_only
+  answer_pair: generated_from_new_content
+  reference_role: coverage
+- source_file: "sources/root_documents/Toán 6/chuyen-de-co-ban-mon-toan-6-ket-noi-tri-thuc-voi-cuoc-song-tap-1/CHƯƠNG 5 ( 7 trang).docx"
+  grade: 6
+  volume: 1
+  chapter: "V"
+  content_types: [chapter_reference]
+  concepts: coverage_only
+  skills: coverage_only
+  answer_pair: generated_from_new_content
+  reference_role: coverage
+- source_file: "sources/root_documents/Toán 6/chuyen-de-co-ban-mon-toan-6-ket-noi-tri-thuc-voi-cuoc-song-tap-1/Đáp án chương 1 ( 21 trang).docx"
+  grade: 6
+  volume: 1
+  chapter: "IX"
+  content_types: [answer_reference]
+  concepts: coverage_only
+  skills: coverage_only
+  answer_pair: reference_only
+  reference_role: coverage
+- source_file: "sources/root_documents/Toán 6/chuyen-de-co-ban-mon-toan-6-ket-noi-tri-thuc-voi-cuoc-song-tap-1/Đáp án chương 2 ( 52 trang).docx"
+  grade: 6
+  volume: 1
+  chapter: "IX"
+  content_types: [answer_reference]
+  concepts: coverage_only
+  skills: coverage_only
+  answer_pair: reference_only
+  reference_role: coverage
+- source_file: "sources/root_documents/Toán 6/chuyen-de-co-ban-mon-toan-6-ket-noi-tri-thuc-voi-cuoc-song-tap-1/Đáp án chương 3 ( 11 trang).docx"
+  grade: 6
+  volume: 1
+  chapter: "IX"
+  content_types: [answer_reference]
+  concepts: coverage_only
+  skills: coverage_only
+  answer_pair: reference_only
+  reference_role: coverage
+- source_file: "sources/root_documents/Toán 6/chuyen-de-co-ban-mon-toan-6-ket-noi-tri-thuc-voi-cuoc-song-tap-2/CHƯƠNG 6 ( 31 trang).docx"
+  grade: 6
+  volume: 2
+  chapter: "VI"
+  content_types: [chapter_reference]
+  concepts: coverage_only
+  skills: coverage_only
+  answer_pair: generated_from_new_content
+  reference_role: coverage
+- source_file: "sources/root_documents/Toán 6/chuyen-de-co-ban-mon-toan-6-ket-noi-tri-thuc-voi-cuoc-song-tap-2/CHƯƠNG 7 ( 17 trang).docx"
+  grade: 6
+  volume: 2
+  chapter: "VII"
+  content_types: [chapter_reference]
+  concepts: coverage_only
+  skills: coverage_only
+  answer_pair: generated_from_new_content
+  reference_role: coverage
+- source_file: "sources/root_documents/Toán 6/chuyen-de-co-ban-mon-toan-6-ket-noi-tri-thuc-voi-cuoc-song-tap-2/CHƯƠNG 8 ( 33 TTRANG).docx"
+  grade: 6
+  volume: 2
+  chapter: "VIII"
+  content_types: [chapter_reference]
+  concepts: coverage_only
+  skills: coverage_only
+  answer_pair: generated_from_new_content
+  reference_role: coverage
+- source_file: "sources/root_documents/Toán 6/chuyen-de-co-ban-mon-toan-6-ket-noi-tri-thuc-voi-cuoc-song-tap-2/CHƯƠNG 9 ( 31 trang).docx"
+  grade: 6
+  volume: 2
+  chapter: "IX"
+  content_types: [chapter_reference]
+  concepts: coverage_only
+  skills: coverage_only
+  answer_pair: generated_from_new_content
+  reference_role: coverage

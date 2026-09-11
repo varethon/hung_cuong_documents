@@ -1,0 +1,649 @@
+records:
+- problem_id: "C1-L1-TN1"
+  lesson_id: "C1-L1"
+  type: multiple_choice
+  objective: "Tập hợp và phần tử"
+  answer: "11 ∈ A"
+  solution: "Đối chiếu trực tiếp các phần tử của A."
+  figure_id: "sets"
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C1-L1-TN2"
+  lesson_id: "C1-L1"
+  type: multiple_choice
+  objective: "Tập hợp và phần tử"
+  answer: "{0; 2; 4; 6; 8; 10; 12; 14; 16}"
+  solution: "Liệt kê các số chẵn bắt đầu từ 0 và nhỏ hơn cận đã cho."
+  figure_id: "sets"
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C1-L1-TL3"
+  lesson_id: "C1-L1"
+  type: written
+  objective: "Tập hợp và phần tử"
+  answer: "{0; 9; 18; 27; 36; 45; 54}"
+  solution: "Các phần tử lần lượt là 0, 9, 29, …, 69."
+  figure_id: "sets"
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C1-L1-TL4"
+  lesson_id: "C1-L1"
+  type: written
+  objective: "Tập hợp và phần tử"
+  answer: "B = {x ∈ N | x < 10 và x lẻ}"
+  solution: "Các phần tử của B là số tự nhiên lẻ nhỏ hơn 10."
+  figure_id: "sets"
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C1-L2-TN1"
+  lesson_id: "C1-L2"
+  type: multiple_choice
+  objective: "Cách ghi số tự nhiên"
+  answer: "4000"
+  solution: "Chữ số hàng nghìn được nhân với 1 000."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C1-L2-TN2"
+  lesson_id: "C1-L2"
+  type: multiple_choice
+  objective: "Cách ghi số tự nhiên"
+  answer: "XXIV"
+  solution: "Tách số thành chục và đơn vị rồi ghép ký hiệu La Mã."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C1-L2-TL3"
+  lesson_id: "C1-L2"
+  type: written
+  objective: "Cách ghi số tự nhiên"
+  answer: "863"
+  solution: "Xếp các chữ số theo thứ tự giảm dần."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C1-L2-TL4"
+  lesson_id: "C1-L2"
+  type: written
+  objective: "Cách ghi số tự nhiên"
+  answer: "500000 + 40000 + 4000 + 700 + 0 + 8"
+  solution: "Tách số theo từng hàng từ trăm nghìn đến đơn vị."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C1-L3-TN1"
+  lesson_id: "C1-L3"
+  type: multiple_choice
+  objective: "Thứ tự trong tập hợp số tự nhiên"
+  answer: "83"
+  solution: "So sánh các số tự nhiên trên cùng tia số."
+  figure_id: "number-line"
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C1-L3-TN2"
+  lesson_id: "C1-L3"
+  type: multiple_choice
+  objective: "Thứ tự trong tập hợp số tự nhiên"
+  answer: "31 < 34 < 64 < 83"
+  solution: "Sắp xếp từ số nhỏ nhất đến số lớn nhất."
+  figure_id: "number-line"
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C1-L3-TL3"
+  lesson_id: "C1-L3"
+  type: written
+  objective: "Thứ tự trong tập hợp số tự nhiên"
+  answer: "{14; 15; 16; 17; 18; 19; 20}"
+  solution: "Các số tự nhiên thỏa mãn bắt đầu từ 14 đến 19."
+  figure_id: "number-line"
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C1-L3-TL4"
+  lesson_id: "C1-L3"
+  type: written
+  objective: "Thứ tự trong tập hợp số tự nhiên"
+  answer: "18 và 19"
+  solution: "Số liền sau của n là n + 1; số liền trước của n là n − 1."
+  figure_id: "number-line"
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C1-L4-TN1"
+  lesson_id: "C1-L4"
+  type: multiple_choice
+  objective: "Phép cộng, phép trừ, phép nhân và phép chia"
+  answer: "263"
+  solution: "Cộng theo từng hàng."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C1-L4-TN2"
+  lesson_id: "C1-L4"
+  type: multiple_choice
+  objective: "Phép cộng, phép trừ, phép nhân và phép chia"
+  answer: "449"
+  solution: "Đặt tính rồi trừ từ phải sang trái."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C1-L4-TL3"
+  lesson_id: "C1-L4"
+  type: written
+  objective: "Phép cộng, phép trừ, phép nhân và phép chia"
+  answer: "223"
+  solution: "Số còn lại = 178 + 85 − 40 = 223."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C1-L4-TL4"
+  lesson_id: "C1-L4"
+  type: written
+  objective: "Phép cộng, phép trừ, phép nhân và phép chia"
+  answer: "263"
+  solution: "Gộp phần bù 25: (178 + 25) + (85 − 25) = 178 + 85."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C1-L5-TN1"
+  lesson_id: "C1-L5"
+  type: multiple_choice
+  objective: "Lũy thừa và thứ tự thực hiện phép tính"
+  answer: "5^3"
+  solution: "Cơ số là 5 và số thừa số là 3."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C1-L5-TN2"
+  lesson_id: "C1-L5"
+  type: multiple_choice
+  objective: "Lũy thừa và thứ tự thực hiện phép tính"
+  answer: "125"
+  solution: "Nhân 5 với chính nó 3 lần."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C1-L5-TL3"
+  lesson_id: "C1-L5"
+  type: written
+  objective: "Lũy thừa và thứ tự thực hiện phép tính"
+  answer: "41"
+  solution: "Tính từng lũy thừa rồi cộng hai kết quả."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C1-L5-TL4"
+  lesson_id: "C1-L5"
+  type: written
+  objective: "Lũy thừa và thứ tự thực hiện phép tính"
+  answer: "46"
+  solution: "Thực hiện lũy thừa và phép nhân trước, sau đó cộng."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C2-L1-TN1"
+  lesson_id: "C2-L1"
+  type: multiple_choice
+  objective: "Quan hệ chia hết và dấu hiệu chia hết"
+  answer: "Không"
+  solution: "Dùng dấu hiệu chia hết cho 5."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C2-L1-TN2"
+  lesson_id: "C2-L1"
+  type: multiple_choice
+  objective: "Quan hệ chia hết và dấu hiệu chia hết"
+  answer: "840"
+  solution: "Số chia hết cho cả 2 và 5 phải có chữ số tận cùng bằng 0."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C2-L1-TL3"
+  lesson_id: "C2-L1"
+  type: written
+  objective: "Quan hệ chia hết và dấu hiệu chia hết"
+  answer: "x ∈ {10; 13; 16; 19; 22; 25; 28; 31; 34; 37}"
+  solution: "Vì hệ số trước x không ảnh hưởng đến yêu cầu liệt kê bội của 3 trong khoảng đã cho."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C2-L1-TL4"
+  lesson_id: "C2-L1"
+  type: written
+  objective: "Quan hệ chia hết và dấu hiệu chia hết"
+  answer: "2"
+  solution: "Tổng chữ số 4 + 7 + 2 = 13 không chia hết cho 9; chọn chữ số 7 để tổng bằng 18. Đáp án đúng là 7."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C2-L2-TN1"
+  lesson_id: "C2-L2"
+  type: multiple_choice
+  objective: "Số nguyên tố và phân tích ra thừa số nguyên tố"
+  answer: "2 × 3 × 5"
+  solution: "Chia lần lượt cho các số nguyên tố nhỏ nhất."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C2-L2-TN2"
+  lesson_id: "C2-L2"
+  type: multiple_choice
+  objective: "Số nguyên tố và phân tích ra thừa số nguyên tố"
+  answer: "31"
+  solution: "31 chỉ có hai ước là 1 và 31."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C2-L2-TL3"
+  lesson_id: "C2-L2"
+  type: written
+  objective: "Số nguyên tố và phân tích ra thừa số nguyên tố"
+  answer: "2 × 2 × 11"
+  solution: "Chia số đã cho cho các số nguyên tố tăng dần."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C2-L2-TL4"
+  lesson_id: "C2-L2"
+  type: written
+  objective: "Số nguyên tố và phân tích ra thừa số nguyên tố"
+  answer: "5"
+  solution: "Các ước nguyên tố là 2, 3, 5; điều kiện p > 3 chọn p = 5."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C2-L3-TN1"
+  lesson_id: "C2-L3"
+  type: multiple_choice
+  objective: "Ước chung và ước chung lớn nhất"
+  answer: "6"
+  solution: "Phân tích hai số hoặc dùng thuật toán Euclid."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C2-L3-TN2"
+  lesson_id: "C2-L3"
+  type: multiple_choice
+  objective: "Ước chung và ước chung lớn nhất"
+  answer: "3"
+  solution: "Kiểm tra số đó chia hết cả hai số."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C2-L3-TL3"
+  lesson_id: "C2-L3"
+  type: written
+  objective: "Ước chung và ước chung lớn nhất"
+  answer: "6"
+  solution: "Số phần nhiều nhất là ƯCLN(66, 54) = 6."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C2-L3-TL4"
+  lesson_id: "C2-L3"
+  type: written
+  objective: "Ước chung và ước chung lớn nhất"
+  answer: "12"
+  solution: "Dùng phép chia có dư liên tiếp."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C2-L4-TN1"
+  lesson_id: "C2-L4"
+  type: multiple_choice
+  objective: "Bội chung và bội chung nhỏ nhất"
+  answer: "14"
+  solution: "Phân tích thừa số nguyên tố hoặc liệt kê bội."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C2-L4-TN2"
+  lesson_id: "C2-L4"
+  type: multiple_choice
+  objective: "Bội chung và bội chung nhỏ nhất"
+  answer: "14"
+  solution: "Đó chính là BCNN(14, 14)."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C2-L4-TL3"
+  lesson_id: "C2-L4"
+  type: written
+  objective: "Bội chung và bội chung nhỏ nhất"
+  answer: "14 giây"
+  solution: "Thời gian cần tìm là BCNN(14, 14) = 14 giây."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C2-L4-TL4"
+  lesson_id: "C2-L4"
+  type: written
+  objective: "Bội chung và bội chung nhỏ nhất"
+  answer: "14; 28; 42"
+  solution: "Các bội chung dương là các bội của BCNN."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C3-L1-TN1"
+  lesson_id: "C3-L1"
+  type: multiple_choice
+  objective: "Tập hợp số nguyên và trục số"
+  answer: "8"
+  solution: "Số đối của a là −a."
+  figure_id: "number-line"
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C3-L1-TN2"
+  lesson_id: "C3-L1"
+  type: multiple_choice
+  objective: "Tập hợp số nguyên và trục số"
+  answer: "-10 < -8 < -7 < 8"
+  solution: "Trên trục số, điểm ở bên trái biểu diễn số nhỏ hơn."
+  figure_id: "number-line"
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C3-L1-TL3"
+  lesson_id: "C3-L1"
+  type: written
+  objective: "Tập hợp số nguyên và trục số"
+  answer: "-5"
+  solution: "Thay phép trừ bằng cộng số đối rồi tính."
+  figure_id: "number-line"
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C3-L1-TL4"
+  lesson_id: "C3-L1"
+  type: written
+  objective: "Tập hợp số nguyên và trục số"
+  answer: "-1"
+  solution: "Tầng mới = tầng cũ + số tầng đi lên."
+  figure_id: "number-line"
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C3-L2-TN1"
+  lesson_id: "C3-L2"
+  type: multiple_choice
+  objective: "Phép cộng, phép trừ và phép nhân số nguyên"
+  answer: "-5"
+  solution: "Hai số trái dấu: lấy hiệu hai giá trị tuyệt đối và giữ dấu của số có giá trị tuyệt đối lớn hơn."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C3-L2-TN2"
+  lesson_id: "C3-L2"
+  type: multiple_choice
+  objective: "Phép cộng, phép trừ và phép nhân số nguyên"
+  answer: "66"
+  solution: "Tích hai số âm là số dương."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C3-L2-TL3"
+  lesson_id: "C3-L2"
+  type: written
+  objective: "Phép cộng, phép trừ và phép nhân số nguyên"
+  answer: "-10"
+  solution: "Tính trong ngoặc trước rồi nhân với −2."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C3-L2-TL4"
+  lesson_id: "C3-L2"
+  type: written
+  objective: "Phép cộng, phép trừ và phép nhân số nguyên"
+  answer: "14"
+  solution: "Cộng y vào hai vế."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C3-L3-TN1"
+  lesson_id: "C3-L3"
+  type: multiple_choice
+  objective: "Quy tắc dấu ngoặc"
+  answer: "14 − 11 + 3"
+  solution: "Dấu trừ trước ngoặc đổi dấu các số hạng trong ngoặc."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C3-L3-TN2"
+  lesson_id: "C3-L3"
+  type: multiple_choice
+  objective: "Quy tắc dấu ngoặc"
+  answer: "16"
+  solution: "Bỏ ngoặc rồi thu gọn."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C3-L3-TL3"
+  lesson_id: "C3-L3"
+  type: written
+  objective: "Quy tắc dấu ngoặc"
+  answer: "214 − 211 + 0"
+  solution: "Đổi dấu đúng khi bỏ ngoặc rồi nhóm các số hạng đồng dạng."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C3-L3-TL4"
+  lesson_id: "C3-L3"
+  type: written
+  objective: "Quy tắc dấu ngoặc"
+  answer: "0"
+  solution: "Hai ngoặc là hai số đối nhau."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C3-L4-TN1"
+  lesson_id: "C3-L4"
+  type: multiple_choice
+  objective: "Bài toán thực tế với số nguyên"
+  answer: "5"
+  solution: "Số đối của a là −a."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C3-L4-TN2"
+  lesson_id: "C3-L4"
+  type: multiple_choice
+  objective: "Bài toán thực tế với số nguyên"
+  answer: "-5 < -1 < 2 < 5"
+  solution: "Trên trục số, điểm ở bên trái biểu diễn số nhỏ hơn."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C3-L4-TL3"
+  lesson_id: "C3-L4"
+  type: written
+  objective: "Bài toán thực tế với số nguyên"
+  answer: "4"
+  solution: "Thay phép trừ bằng cộng số đối rồi tính."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C3-L4-TL4"
+  lesson_id: "C3-L4"
+  type: written
+  objective: "Bài toán thực tế với số nguyên"
+  answer: "-3"
+  solution: "Tầng mới = tầng cũ + số tầng đi lên."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C4-L1-TN1"
+  lesson_id: "C4-L1"
+  type: multiple_choice
+  objective: "Tam giác đều, hình vuông và lục giác đều"
+  answer: "32 cm"
+  solution: "Chu vi hình vuông bằng 4 lần cạnh."
+  figure_id: "regular-shapes"
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C4-L1-TN2"
+  lesson_id: "C4-L1"
+  type: multiple_choice
+  objective: "Tam giác đều, hình vuông và lục giác đều"
+  answer: "30 cm"
+  solution: "Tam giác đều có ba cạnh bằng nhau."
+  figure_id: "regular-shapes"
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C4-L1-TL3"
+  lesson_id: "C4-L1"
+  type: written
+  objective: "Tam giác đều, hình vuông và lục giác đều"
+  answer: "64 m²"
+  solution: "Diện tích = 8 × 8 = 64 m²."
+  figure_id: "regular-shapes"
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C4-L1-TL4"
+  lesson_id: "C4-L1"
+  type: written
+  objective: "Tam giác đều, hình vuông và lục giác đều"
+  answer: "42 cm"
+  solution: "Lục giác đều có sáu cạnh bằng nhau."
+  figure_id: "regular-shapes"
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C4-L2-TN1"
+  lesson_id: "C4-L2"
+  type: multiple_choice
+  objective: "Hình chữ nhật, hình thoi và hình bình hành"
+  answer: "75 cm²"
+  solution: "Diện tích hình chữ nhật bằng dài × rộng."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C4-L2-TN2"
+  lesson_id: "C4-L2"
+  type: multiple_choice
+  objective: "Hình chữ nhật, hình thoi và hình bình hành"
+  answer: "45.5 cm²"
+  solution: "Diện tích hình thoi bằng nửa tích hai đường chéo."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C4-L2-TL3"
+  lesson_id: "C4-L2"
+  type: written
+  objective: "Hình chữ nhật, hình thoi và hình bình hành"
+  answer: "75 cm²"
+  solution: "Diện tích = đáy × chiều cao."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C4-L2-TL4"
+  lesson_id: "C4-L2"
+  type: written
+  objective: "Hình chữ nhật, hình thoi và hình bình hành"
+  answer: "5 cm"
+  solution: "Nửa chu vi là 20 cm; chiều rộng = 20 − 15."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C4-L3-TN1"
+  lesson_id: "C4-L3"
+  type: multiple_choice
+  objective: "Chu vi, diện tích trong thực tiễn"
+  answer: "96 cm²"
+  solution: "Diện tích hình chữ nhật bằng dài × rộng."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C4-L3-TN2"
+  lesson_id: "C4-L3"
+  type: multiple_choice
+  objective: "Chu vi, diện tích trong thực tiễn"
+  answer: "56 cm²"
+  solution: "Diện tích hình thoi bằng nửa tích hai đường chéo."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C4-L3-TL3"
+  lesson_id: "C4-L3"
+  type: written
+  objective: "Chu vi, diện tích trong thực tiễn"
+  answer: "96 cm²"
+  solution: "Diện tích = đáy × chiều cao."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C4-L3-TL4"
+  lesson_id: "C4-L3"
+  type: written
+  objective: "Chu vi, diện tích trong thực tiễn"
+  answer: "6 cm"
+  solution: "Nửa chu vi là 22 cm; chiều rộng = 22 − 16."
+  figure_id: none
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C5-L1-TN1"
+  lesson_id: "C5-L1"
+  type: multiple_choice
+  objective: "Hình có trục đối xứng"
+  answer: "Hình bình hành"
+  solution: "Hai đường chéo của hình bình hành cắt nhau tại trung điểm mỗi đường."
+  figure_id: "symmetry"
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C5-L1-TN2"
+  lesson_id: "C5-L1"
+  type: multiple_choice
+  objective: "Hình có trục đối xứng"
+  answer: "4"
+  solution: "Hai đường chéo và hai đường trung trực của các cặp cạnh là trục đối xứng."
+  figure_id: "symmetry"
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C5-L1-TL3"
+  lesson_id: "C5-L1"
+  type: written
+  objective: "Hình có trục đối xứng"
+  answer: "Ví dụ: cánh bướm"
+  solution: "Hai nửa hình ảnh đối xứng qua một đường thẳng."
+  figure_id: "symmetry"
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C5-L1-TL4"
+  lesson_id: "C5-L1"
+  type: written
+  objective: "Hình có trục đối xứng"
+  answer: "5 cm"
+  solution: "Tâm đối xứng là trung điểm của đoạn nối hai điểm tương ứng."
+  figure_id: "symmetry"
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C5-L2-TN1"
+  lesson_id: "C5-L2"
+  type: multiple_choice
+  objective: "Hình có tâm đối xứng"
+  answer: "Hình bình hành"
+  solution: "Hai đường chéo của hình bình hành cắt nhau tại trung điểm mỗi đường."
+  figure_id: "symmetry"
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C5-L2-TN2"
+  lesson_id: "C5-L2"
+  type: multiple_choice
+  objective: "Hình có tâm đối xứng"
+  answer: "4"
+  solution: "Hai đường chéo và hai đường trung trực của các cặp cạnh là trục đối xứng."
+  figure_id: "symmetry"
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C5-L2-TL3"
+  lesson_id: "C5-L2"
+  type: written
+  objective: "Hình có tâm đối xứng"
+  answer: "Ví dụ: cánh bướm"
+  solution: "Hai nửa hình ảnh đối xứng qua một đường thẳng."
+  figure_id: "symmetry"
+  originality_status: not_checked
+  math_review_status: pending
+- problem_id: "C5-L2-TL4"
+  lesson_id: "C5-L2"
+  type: written
+  objective: "Hình có tâm đối xứng"
+  answer: "5 cm"
+  solution: "Tâm đối xứng là trung điểm của đoạn nối hai điểm tương ứng."
+  figure_id: "symmetry"
+  originality_status: not_checked
+  math_review_status: pending

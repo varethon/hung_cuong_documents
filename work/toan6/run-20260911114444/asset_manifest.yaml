@@ -1,0 +1,15 @@
+book_id: toan6
+brand_assets:
+  - path: sources/books/logo_hung_cuong.png
+    role: approved_brand_logo
+    reused: true
+  - path: sources/books/bia_toan7_ref_02.png
+    role: visual_reference_only
+    reused: false
+  - path: sources/books/bia_toan7_ref_01.png
+    role: missing_reference_not_recreated
+    reused: false
+generated_assets:
+  - cover_tap1.png
+  - cover_tap2.png
+  - figures/*.svg

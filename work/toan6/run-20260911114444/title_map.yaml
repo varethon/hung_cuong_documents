@@ -1,0 +1,48 @@
+book_id: toan6
+policy: preserve_coverage_normalize_obvious_typography
+records:
+- chapter: "I"
+  source_title: "TẬP HỢP CÁC SỐ TỰ NHIÊN"
+  normalized_title: "TẬP HỢP CÁC SỐ TỰ NHIÊN"
+  rationale: keep_source_meaning_and_normalize_spacing_only
+  status: pending_human_review
+- chapter: "II"
+  source_title: "TÍNH CHIA HẾT TRONG TẬP HỢP CÁC SỐ TỰ NHIÊN"
+  normalized_title: "TÍNH CHIA HẾT TRONG TẬP HỢP CÁC SỐ TỰ NHIÊN"
+  rationale: keep_source_meaning_and_normalize_spacing_only
+  status: pending_human_review
+- chapter: "III"
+  source_title: "SỐ NGUYÊN"
+  normalized_title: "SỐ NGUYÊN"
+  rationale: keep_source_meaning_and_normalize_spacing_only
+  status: pending_human_review
+- chapter: "IV"
+  source_title: "MỘT SỐ HÌNH PHẲNG TRONG THỰC TIỄN"
+  normalized_title: "MỘT SỐ HÌNH PHẲNG TRONG THỰC TIỄN"
+  rationale: keep_source_meaning_and_normalize_spacing_only
+  status: pending_human_review
+- chapter: "V"
+  source_title: "TÍNH ĐỐI XỨNG CỦA HÌNH PHẲNG TRONG TỰ NHIÊN"
+  normalized_title: "TÍNH ĐỐI XỨNG CỦA HÌNH PHẲNG TRONG TỰ NHIÊN"
+  rationale: keep_source_meaning_and_normalize_spacing_only
+  status: pending_human_review
+- chapter: "VI"
+  source_title: "PHÂN SỐ"
+  normalized_title: "PHÂN SỐ"
+  rationale: keep_source_meaning_and_normalize_spacing_only
+  status: pending_human_review
+- chapter: "VII"
+  source_title: "SỐ THẬP PHÂN"
+  normalized_title: "SỐ THẬP PHÂN"
+  rationale: keep_source_meaning_and_normalize_spacing_only
+  status: pending_human_review
+- chapter: "VIII"
+  source_title: "NHỮNG HÌNH HÌNH HỌC CƠ BẢN"
+  normalized_title: "NHỮNG HÌNH HÌNH HỌC CƠ BẢN"
+  rationale: keep_source_meaning_and_normalize_spacing_only
+  status: pending_human_review
+- chapter: "IX"
+  source_title: "DỮ LIỆU VÀ XÁC SUẤT DỮ LIỆU"
+  normalized_title: "DỮ LIỆU VÀ XÁC SUẤT DỮ LIỆU"
+  rationale: keep_source_meaning_and_normalize_spacing_only
+  status: pending_human_review

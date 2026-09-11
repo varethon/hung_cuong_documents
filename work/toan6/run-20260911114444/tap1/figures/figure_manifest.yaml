@@ -1,0 +1,65 @@
+book_id: toan6
+records:
+- figure_id: "number-line"
+  purpose: "Biểu diễn và so sánh số"
+  geometry_description: "Trục số có các điểm đánh dấu và mũi tên hai chiều"
+  file_path: "figures/number-line.svg"
+  format: svg
+  alt_text: "Trục số có các điểm đánh dấu và mũi tên hai chiều"
+  source_reference: concept_only
+  is_new_artwork: true
+  review_status: pending_human_review
+- figure_id: "regular-shapes"
+  purpose: "Nhận biết hình phẳng đều"
+  geometry_description: "Ba hình đều: tam giác đều, hình vuông và lục giác đều"
+  file_path: "figures/regular-shapes.svg"
+  format: svg
+  alt_text: "Ba hình đều: tam giác đều, hình vuông và lục giác đều"
+  source_reference: concept_only
+  is_new_artwork: true
+  review_status: pending_human_review
+- figure_id: "symmetry"
+  purpose: "Nhận biết trục đối xứng"
+  geometry_description: "Hình cánh bướm đối xứng qua một trục đứng"
+  file_path: "figures/symmetry.svg"
+  format: svg
+  alt_text: "Hình cánh bướm đối xứng qua một trục đứng"
+  source_reference: concept_only
+  is_new_artwork: true
+  review_status: pending_human_review
+- figure_id: "segment"
+  purpose: "Đo và tính độ dài đoạn thẳng"
+  geometry_description: "Đoạn thẳng AB có điểm M nằm giữa"
+  file_path: "figures/segment.svg"
+  format: svg
+  alt_text: "Đoạn thẳng AB có điểm M nằm giữa"
+  source_reference: concept_only
+  is_new_artwork: true
+  review_status: pending_human_review
+- figure_id: "angle"
+  purpose: "Nhận biết và đo góc"
+  geometry_description: "Góc xOy với cung tròn biểu diễn số đo góc"
+  file_path: "figures/angle.svg"
+  format: svg
+  alt_text: "Góc xOy với cung tròn biểu diễn số đo góc"
+  source_reference: concept_only
+  is_new_artwork: true
+  review_status: pending_human_review
+- figure_id: "bar-chart"
+  purpose: "Đọc dữ liệu trên biểu đồ cột"
+  geometry_description: "Biểu đồ cột đơn giản gồm ba cột màu xanh"
+  file_path: "figures/bar-chart.svg"
+  format: svg
+  alt_text: "Biểu đồ cột đơn giản gồm ba cột màu xanh"
+  source_reference: concept_only
+  is_new_artwork: true
+  review_status: pending_human_review
+- figure_id: "outcomes"
+  purpose: "Mô tả kết quả có thể và sự kiện"
+  geometry_description: "Sơ đồ tập hợp kết quả có thể của một lần gieo xúc xắc"
+  file_path: "figures/outcomes.svg"
+  format: svg
+  alt_text: "Sơ đồ tập hợp kết quả có thể của một lần gieo xúc xắc"
+  source_reference: concept_only
+  is_new_artwork: true
+  review_status: pending_human_review
